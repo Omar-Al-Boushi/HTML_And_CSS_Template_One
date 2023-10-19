@@ -322,6 +322,10 @@ header .links:hover ul {
     .services .servces-content .col .image {
         display: none;
     }
+    .services .servces-content .col .srv {
+        flex-direction: column;
+        text-align: center;
+    }
 }
 
 /* End Services */
